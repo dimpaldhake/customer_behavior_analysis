@@ -188,12 +188,7 @@ Open `customer_behavior_dashboard.pbix` in Power BI Desktop. If prompted, update
 - Business-question translation and customer segmentation
 - Dashboard-based reporting with Power BI
 
-## ⚠️ Notes and Limitations
 
-- The supplied files show the analysis workflow and dashboard design; this README does not claim business findings or numerical conclusions that have not been verified from the report outputs.
-- The SQL assumes the transformed PostgreSQL table is named `customer` and includes fields such as `purchase_amount` and `age_group`.
-- The notebook currently contains a local database connection configuration. Replace hard-coded credentials with environment variables before publishing the notebook.
-- The SQL query for product rankings uses `ROW_NUMBER()`, so tied products receive different row numbers rather than sharing a rank.
 
 ## 👩‍💻 Author
 
