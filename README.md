@@ -199,4 +199,4 @@ Open `customer_behavior_dashboard.pbix` in Power BI Desktop. If prompted, update
 
 **Dimpal Dhake**
 
-Add your GitHub repository URL here after creating or uploading the project repository.
+https://github.com/dimpaldhake/customer_behavior_analysis.git
